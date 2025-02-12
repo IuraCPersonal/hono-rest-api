@@ -1,6 +1,15 @@
+# Documented and type-safe API
+
+Built with:
+
+- hono
+- drizzle
+- zod
+- OpenAPI
+
 ```
-npm install
-npm run dev
+bun install
+bun dev
 ```
 
 ```
